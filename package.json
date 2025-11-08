@@ -1,0 +1,14 @@
+{
+  "name": "wegLOW-countdown",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PNG countdown image for email (Vercel serverless)",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.57",
+    "luxon": "^3.5.0"
+  }
+}
+
